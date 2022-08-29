@@ -18,3 +18,6 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias
 
 - (HTML5)
 - CSS3
+
+## Conhecimento adquirido:
+Durante o desenvolvimanto desse projeto,aprendi sobre Tags semânticas e também coloquei em pratica conhecimantos sobre position adquiridos no Discover da **Rocketseat**
